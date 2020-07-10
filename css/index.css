@@ -952,6 +952,7 @@ main{
 }
 .end{
     background: url(../image/end.png) no-repeat center;
+    width: 1230px;
     height: 45px;
     margin: 0 auto 10px;
 }
@@ -1013,6 +1014,9 @@ main{
     }
     .goods-content{
         width: 984px;
+    }
+    .end{
+        width: 990px;
     }
 }
 @media (max-width:1000px){
