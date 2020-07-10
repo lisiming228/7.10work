@@ -554,9 +554,6 @@ main{
 .goods-content-right .market-container .bottom{
     position: relative;
 }
-.goods-content-right .market-container .bottom  p{
-    color: #000;
-}
 .goods-content-right .market-container .bottom img{
     float: right;
     margin-top: 10px;
@@ -613,6 +610,7 @@ main{
     font-size: 20px;
     letter-spacing: 1px;
     line-height: 29px;
+    color: #000;
 }
 .brandsale{
     height: 370px;
