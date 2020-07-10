@@ -953,6 +953,7 @@ main{
 .end{
     background: url(../image/end.png) no-repeat center;
     height: 45px;
+    width: 1230px;
     margin: 0 auto 10px;
 }
 @media (max-width:1260px){
@@ -1013,6 +1014,9 @@ main{
     }
     .goods-content{
         width: 984px;
+    }
+    .end{
+        width: 990px;
     }
 }
 @media (max-width:1000px){
