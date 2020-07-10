@@ -554,6 +554,9 @@ main{
 .goods-content-right .market-container .bottom{
     position: relative;
 }
+.goods-content-right .market-container .bottom  p{
+    color: #000;
+}
 .goods-content-right .market-container .bottom img{
     float: right;
     margin-top: 10px;
