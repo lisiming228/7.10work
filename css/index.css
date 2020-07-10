@@ -954,6 +954,7 @@ main{
     background: url(../image/end.png) no-repeat center;
     width: 1230px;
     height: 45px;
+    width: 1230px;
     margin: 0 auto 10px;
 }
 @media (max-width:1260px){
