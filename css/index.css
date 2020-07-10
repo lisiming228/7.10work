@@ -560,6 +560,10 @@ main{
     margin-right: 30px;
     width: 200px;
     height: 200px;
+    transition: all 0.3s;
+}
+.goods-content-right .market-container .bottom a:hover img{
+    opacity: 0.7;
 }
 .goods-content-right .market-container .head-inner:hover{
     color:#fff;
